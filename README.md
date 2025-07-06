@@ -25,6 +25,7 @@ Our vision is to empower communities and organizations to conduct secure, audita
 - 🗳️ Ranked or weighted voting schemes
 
 ## 📄 Contract Details
+0x9e99e415fB78D76bE8Add99e8Fc4226bb60c99B4
 
 ![image](https://github.com/user-attachments/assets/cba9bc4a-286f-45fc-bd0d-fee1dd5cda42)
 
