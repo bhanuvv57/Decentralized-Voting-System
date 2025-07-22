@@ -78,4 +78,9 @@ contract DecentralizedVoting {
     function getCandidates() public view returns (string[] memory) {
         return candidates;
     }
+
+    // ✅ New Function: Check if a user has voted
+    function hasUserVoted(address user) public view returns (bool) {
+        return hasVoted[user];
+    }
 }
