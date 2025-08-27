@@ -29,3 +29,9 @@ Our vision is to empower communities and organizations to conduct secure, audita
 
 ![image](https://github.com/user-attachments/assets/cba9bc4a-286f-45fc-bd0d-fee1dd5cda42)
 
+
+## ✅ Update Log
+
+This project was revisited and updated to maintain GitHub activity and ensure continuous improvement.  
+Commit Note: Keeping the repository active for better visibility in the developer community 🚀
+
